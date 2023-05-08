@@ -24,4 +24,4 @@ Give a high-level overview of the project purpose
 - Describe a situation where you demonstrated  this job function.
 - Summarize the actions you took to accomplish the goal. 
 - Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+- Connect the competency to this project
